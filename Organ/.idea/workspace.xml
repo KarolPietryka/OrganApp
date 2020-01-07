@@ -7,202 +7,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9eabac6-d1c1-467b-80cf-dc6c19a311aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gradle/4.10/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/4.10/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-12/2019-11-12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-12/Karol/AJ/AJ.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-12/Karol/Karol.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-16/2019-11-16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-17/2019-11-17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-18/2019-11-18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-19/2019-11-19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-20/2019-11-20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-21/2019-11-21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-22/2019-11-22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-25/2019-11-25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-26/2019-11-26.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-26/NotatkaTestowa/NotatkaTestowa.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-27/2019-11-27.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-28/2019-11-28.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-11-29/2019-11-29.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-12-01/2019-12-01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-12-13/2019-12-13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/2019-12-14/2019-12-14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary - Kopia/Diary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary/2019-12-17/2019-12-17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary/2019-12-18/2019-12-18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary/2019-12-18/ds/ds.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary/2019-12-18/s/s.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary/2019-12-21/2019-12-21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diary/Diary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Organization-Group.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Organization-Group.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../filename.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/App/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/App/Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/App/RunApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/Archive/DiaryTreeSearcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/Archive/ITreeSearcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/AppFramesObserverPattern/EFrames.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/AppFramesObserverPattern/IAppFramesObservable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/AppFramesObserverPattern/IAppFramesObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/LoginFrame/LoginFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/LoginFrame/LoginFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/LoginFrame/LoginFrameComponents/LoginPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/LoginFrame/LoginFrameComponents/LoginPanelArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/LoginFrame/LoginFrameComponents/PasswordPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganAppFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/DailyNoteEditorPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/ITextComponentContentSetter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/DailyNoteKeyBindingSetter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/IKeyBindingSetter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions$OrganFrameUndoableEditListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions$RedoAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions$UndoAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/DiaryTreElementsDirectoriesStructureRefresher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/DiaryTreeElementDirectoriesEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/ITreeElementDirectoriesEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/DiaryTreeElementModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/DirectoryFile/DirectoryFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/IDiaryTreeElementModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/NoteFile/NoteFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/IDiaryTreeElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/ITreeElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/CurrentDayDiaryPageCreator/CurrentDayDiaryPageCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/CurrentDayDiaryPageCreator/ICurrentDayDiaryPageCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/DiaryTreeLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/ITreeLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeModel$DiaryTreeModelListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeNodesEditor/DiaryTreeModelEventHandler/DiaryTreeModelEventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeNodesEditor/DiaryTreeModelEventHandler/ITreeModelEventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeNodesEditor/DiaryTreeNodesEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeNodesEditor/ITreeNodesEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/IDiaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/Buttons/AddNodeButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/Buttons/RemoveNodeButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/IButtonsPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/TreeButtonPanel$AddButtonListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/TreeButtonPanel$RemoveButtonListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/TreeButtonPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/SplitPaneDiary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/OrganEditMenu/OrganEditMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/Frames/OrganMainFrame/OrganMainFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/GUI/GUIInterfaces/IOrganButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/System/DelayThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/Archive/DiaryTreeSearcherTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/Archive/TreeSearcherMock/TreeSearcherMock$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/Archive/TreeSearcherMock/TreeSearcherMock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/DirectoryFileMock/DirectoryFileMock$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/DirectoryFileMock/DirectoryFileMock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/FileMock/FileMock$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/FileMock/FileMock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/ChildrenElementsDirectoriesRefresher/DiaryTreElementsDirectoriesStructureRefresherTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/DiaryTreeElementDirectoriesEditorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/DiaryTreeLoaderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeNodesEditor/DiaryTreeNodesEditorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/TreeNodeChildrenEnumeration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/ITreeElementMock/DiaryTreeElementMock$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/ITreeElementMock/DiaryTreeElementMock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/META-INF/Organ.Organ.main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/NoteFileMock/NoteFileMock$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/NoteFileMock/NoteFileMock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/TestSupport/DeleteDirectory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/App/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/App/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/App/RunApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Archive/DiaryTreeSearcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Archive/ITreeSearcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/AppFramesObserverPattern/EFrames.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/AppFramesObserverPattern/IAppFramesObservable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/AppFramesObserverPattern/IAppFramesObserver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/LoginFrame/LoginFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/LoginFrame/LoginFrameComponents/LoginPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/LoginFrame/LoginFrameComponents/LoginPanelArea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/LoginFrame/LoginFrameComponents/PasswordPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganAppFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/DailyNoteEditorPane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/ITextComponentContentSetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/DailyNoteKeyBindingSetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/IKeyBindingSetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/DiaryTreElementsDirectoriesStructureRefresher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/DiaryTreeElementDirectoriesEditor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/ITreeElementDirectoriesEditor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/DiaryTreeElementModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/DirectoryFile/DirectoryFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/IDiaryTreeElementModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/NoteFile/NoteFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/IDiaryTreeElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/ITreeElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/CurrentDayDiaryPageCreator/CurrentDayDiaryPageCreator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/CurrentDayDiaryPageCreator/ICurrentDayDiaryPageCreator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/DiaryTreeLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/ITreeLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeModelEventHandler/DiaryTreeModelEventHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeModelEventHandler/ITreeModelEventHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeNodesEditor/DiaryTreeNodesEditor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeNodesEditor/ITreeNodesEditor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/IDiaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/Buttons/AddNodeButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/Buttons/RemoveNodeButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/IButtonsPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/TreeButtonPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/SplitPaneDiary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/OrganEditMenu/OrganEditMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/Frames/OrganMainFrame/OrganMainFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/GUI/GUIInterfaces/IOrganButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/System/DelayThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/Archive/DiaryTreeSearcherTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/Archive/TreeSearcherMock/TreeSearcherMock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/DirectoryFileMock/DirectoryFileMock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/FileMock/FileMock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/ChildrenElementsDirectoriesRefresher/DiaryTreElementsDirectoriesStructureRefresherTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/DiaryTreeElementDirectoriesEditorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/DiaryTreeLoaderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeNodesEditor/DiaryTreeNodesEditorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/TreeNodeChildrenEnumeration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/ITreeElementMock/DiaryTreeElementMock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/NoteFileMock/NoteFileMock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/TestSupport/DeleteDirectory.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Organ_jar/Diary/2020-01-06/2020-01-06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Organ_jar/Diary/Diary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/DailyNoteEditorPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/EditorPaneContentSetter/ITextComponentContentSetter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/KeyBindingSetter/DailyNoteKeyBindingSetter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/KeyBindingSetter/IKeyBindingSetter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/Actions/SaveBehaviour/ISaveBehaviour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/Actions/SaveBehaviour/SaveDailyNoteBehaviour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/ETextComponentActions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/TextComponentActions$OrganFrameUndoableEditListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/TextComponentActions$RedoAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/TextComponentActions$UndoAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/TextComponentActions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/DailyNoteEditorPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/EditorPaneContentSetter/ITextComponentContentSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/KeyBindingSetter/DailyNoteKeyBindingSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/KeyBindingSetter/IKeyBindingSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/Actions/SaveBehaviour/ISaveBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/Actions/SaveBehaviour/SaveDailyNoteBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/ETextComponentActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/TextComponentActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Organ_jar/Organ.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Organ_jar/Organ.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/App/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/App/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/OrganEditMenu/OrganEditMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/OrganEditMenu/OrganEditMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/OrganMainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/OrganMainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/OrganEditMenu/OrganEditMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/OrganEditMenu/OrganEditMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/OrganMainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/OrganMainFrame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -248,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="952">
               <caret line="70" column="159" selection-start-line="70" selection-start-column="159" selection-end-line="70" selection-end-column="159" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -299,8 +138,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/DiaryTreeElementModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="349">
+              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding>
                 <element signature="method#deleteElement#0;class#DiaryTreeElementModel#0" />
               </folding>
@@ -451,17 +290,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Organ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Organ.Organ" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -491,6 +319,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Organ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Organ.Organ" type="eaaa3913:PackageViewModuleGroupNode" />
             </path>
           </expand>
           <select />
@@ -687,7 +526,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.271855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27452025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1072,6 +911,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
     <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/ITreeElementDirectoriesEditor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1083,6 +930,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="70" column="159" selection-start-line="70" selection-start-column="159" selection-end-line="70" selection-end-column="159" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1124,30 +981,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="70" column="159" selection-start-line="70" selection-start-column="159" selection-end-line="70" selection-end-column="159" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/DiaryTreeElementModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="349">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="method#deleteElement#0;class#DiaryTreeElementModel#0" />
           </folding>

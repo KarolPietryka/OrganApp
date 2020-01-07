@@ -2,12 +2,14 @@ package App;
 
 import GUI.Frames.LoginFrame.LoginFrame;
 import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanel;
-import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.DailyNoteEditorPane.DailyNoteEditorPane;
-import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.DailyNoteEditorPane.EditorPaneContentSetter.EditorPaneContentSetter;
-import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.DailyNoteEditorPane.EditorPaneContentSetter.ITextComponentContentSetter;
-import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.DailyNoteEditorPane.KeyBindingSetter.DailyNoteKeyBindingSetter;
-import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.DailyNoteEditorPane.KeyBindingSetter.IKeyBindingSetter;
-import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.DailyNoteEditorPane.TextComponentActions.TextComponentActions;
+import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DailyNoteEditorPane.DailyNoteEditorPane;
+import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DailyNoteEditorPane.EditorPaneContentSetter.EditorPaneContentSetter;
+import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DailyNoteEditorPane.EditorPaneContentSetter.ITextComponentContentSetter;
+import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DailyNoteEditorPane.KeyBindingSetter.DailyNoteKeyBindingSetter;
+import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DailyNoteEditorPane.KeyBindingSetter.IKeyBindingSetter;
+import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DailyNoteEditorPane.TextComponentActions.Actions.SaveBehaviour.SaveDailyNoteBehaviour;
+import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DailyNoteEditorPane.TextComponentActions.ETextComponentActions;
+import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DailyNoteEditorPane.TextComponentActions.TextComponentActions;
 import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.DiaryTreePanel;
 import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.DiaryTreePanelComponents.DiaryTree.DiaryTreeElement.IDiaryTreeElement;
 import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.DiaryTreePanelComponents.DiaryTree.DiaryTreeLoader.CurrentDayDiaryPageCreator.CurrentDayDiaryPageCreator;
@@ -97,7 +99,9 @@ public class Config {
     @Bean
     UndoManager undoManager(){return new UndoManager();}
     @Bean
-    TextComponentActions textComponentActions() {return new TextComponentActions(undoManager());}
+    SaveDailyNoteBehaviour saveDailyNote(){return new SaveDailyNoteBehaviour();}
+    @Bean
+    TextComponentActions textComponentActions() {return new TextComponentActions(undoManager(), additionalTextComponentActionsList());}
     @Bean
     OrganEditMenu organEditMenu(){return new OrganEditMenu(textComponentActions());}
     @Bean
@@ -111,6 +115,15 @@ public class Config {
         framesOrganAppFrameHashMap.put(EFrames.LoginFrame, loginFrame());
         framesOrganAppFrameHashMap.put(EFrames.OrganMainFrame, organMainFrame());
         return new RunApp(framesOrganAppFrameHashMap);
+    }
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    HashMap<Object, Action> additionalTextComponentActionsList()
+    {
+        HashMap<Object, Action> additionalTextComponentActionsList = new HashMap<Object, Action>();
+        additionalTextComponentActionsList.put(ETextComponentActions.Save, saveDailyNote());
+
+        return additionalTextComponentActionsList;
     }
 
 }

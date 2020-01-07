@@ -13,7 +13,6 @@ import java.io.*;
 
 public class DiaryTreeElement extends DefaultMutableTreeNode implements IDiaryTreeElement {
 
-
     private String fileFormat;
     private IDiaryTreeElementModel diaryTreeElementModel;
     private ITreeElementDirectoriesEditor diaryTreeElementDirectoriesEditor;
