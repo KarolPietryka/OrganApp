@@ -7,41 +7,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9eabac6-d1c1-467b-80cf-dc6c19a311aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Organ_jar/Diary/2020-01-06/2020-01-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Organ_jar/Diary/Diary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/DailyNoteEditorPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/EditorPaneContentSetter/ITextComponentContentSetter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/KeyBindingSetter/DailyNoteKeyBindingSetter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/KeyBindingSetter/IKeyBindingSetter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/Actions/SaveBehaviour/ISaveBehaviour.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/Actions/SaveBehaviour/SaveDailyNoteBehaviour.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/ETextComponentActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/TextComponentActions$OrganFrameUndoableEditListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/TextComponentActions$RedoAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/TextComponentActions$UndoAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/TextComponentActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/DailyNoteEditorPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/EditorPaneContentSetter/ITextComponentContentSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/KeyBindingSetter/DailyNoteKeyBindingSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/KeyBindingSetter/IKeyBindingSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/Actions/SaveBehaviour/ISaveBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/Actions/SaveBehaviour/SaveDailyNoteBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/ETextComponentActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/TextComponentActions/TextComponentActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/META-INF/Organ.Organ.main.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Organ_jar/Organ.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Organ_jar/Organ.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/App/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/App/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/OrganEditMenu/OrganEditMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/OrganEditMenu/OrganEditMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/OrganMainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/OrganMainFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/OrganEditMenu/OrganEditMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/OrganEditMenu/OrganEditMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/OrganMainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/OrganMainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/DailyNoteEditorPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/ITextComponentContentSetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/DailyNoteKeyBindingSetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/IKeyBindingSetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions$OrganFrameUndoableEditListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions$RedoAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions$UndoAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/DailyNoteEditorPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/ITextComponentContentSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/DailyNoteKeyBindingSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/IKeyBindingSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -66,92 +50,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/ITreeElementDirectoriesEditor.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/DailyNoteEditorPane.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/DiaryTreeLoader.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="70" column="159" selection-start-line="70" selection-start-column="159" selection-end-line="70" selection-end-column="159" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestSupport/DeleteDirectory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/TreeButtonPanel/Buttons/AddNodeButton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="39" column="132" selection-start-line="39" selection-start-column="132" selection-end-line="39" selection-end-column="132" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/DailyNoteEditorPane.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="e#3014#3015#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/DiaryTreeElementModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding>
-                <element signature="method#deleteElement#0;class#DiaryTreeElementModel#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="34">
+              <caret line="2" column="105" selection-start-line="2" selection-start-column="105" selection-end-line="2" selection-end-column="105" />
             </state>
           </provider>
         </entry>
@@ -222,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanel.java" />
         <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/SplitPaneDiary.java" />
         <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/DialyNoteBindingSetter.java" />
         <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/IKeyBindingSetter.java" />
@@ -242,7 +153,6 @@
         <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeNodesEditor/DiaryTreeModelEventHandler/DiaryTreeModelEventHandler.java" />
         <option value="$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeLoader/DiaryTreeLoaderTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeNodesEditor/DiaryTreeNodesEditorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Archive/DiaryTreeSearcherTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/TreeNodeChildrenEnumeration.java" />
         <option value="$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/ChildrenElementsDirectoriesRefresher/ChildrenElementsDirectoriesRefresherTest.java" />
@@ -251,7 +161,6 @@
         <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/IDiaryTreeElementModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/ITextComponentContentSetter.java" />
         <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/DailyNoteEditorPane.java" />
         <option value="$PROJECT_DIR$/src/test/java/ITreeElementMock/DiaryTreeElementMock.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestSupport/DeleteDirectory.java" />
         <option value="$PROJECT_DIR$/src/test/java/NoteFileMock/NoteFileMock.java" />
@@ -273,6 +182,9 @@
         <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/ITreeElementDirectoriesEditor.java" />
         <option value="$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/DiaryTreeElementDirectoriesEditorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/DailyNoteKeyBindingSetter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/DailyNoteEditorPane.java" />
       </list>
     </option>
   </component>
@@ -289,7 +201,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Organ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Organ.Organ" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,25 +242,87 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="Organ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Organ.Organ" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="Organ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Organ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Organ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Organ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="AppFramesObserverPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Organ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Organ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="Frames" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Organ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Organ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="Frames" type="462c0819:PsiDirectoryNode" />
+              <item name="OrganMainFrame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Organ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Organ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="Frames" type="462c0819:PsiDirectoryNode" />
+              <item name="OrganMainFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="DiaryPanel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Organ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Organ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="Frames" type="462c0819:PsiDirectoryNode" />
+              <item name="OrganMainFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="DiaryPanel" type="462c0819:PsiDirectoryNode" />
+              <item name="DiaryPanelComponents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Organ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Organ" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="Frames" type="462c0819:PsiDirectoryNode" />
+              <item name="OrganMainFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="DiaryPanel" type="462c0819:PsiDirectoryNode" />
+              <item name="DiaryPanelComponents" type="462c0819:PsiDirectoryNode" />
+              <item name="DailyNoteEditorPane" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577028681762" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580331571643" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -462,9 +446,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.All in Organ.Organ.test (1)" />
         <item itemvalue="JUnit.All in Organ.Organ.test (3)" />
         <item itemvalue="JUnit.DiaryTreeElementTest._2_updateDirectories_ChangeNameOfParentAndCheckIfInChildNodeItWillBeUpdate" />
-        <item itemvalue="JUnit.All in Organ.Organ.test (1)" />
         <item itemvalue="JUnit.All in Organ.Organ.test (2)" />
       </list>
     </recent_temporary>
@@ -483,12 +467,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DiaryTreeElementDirectoriesEditorTest__2_createElementDirectories_CheckIfDirectoriesHaveNewNamesAndIfPathsAreCorrect - 2019.12.21 at 13h 17m 31s.xml">
-      <configuration name="DiaryTreeElementDirectoriesEditorTest._2_createElementDirectories_CheckIfDirectoriesHaveNewNamesAndIfPathsAreCorrect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DiaryTreeElementDirectoriesEditorTest__1_renameElement_CheckingDirectoryAndNoteNameOfChangedElement - 2019.12.21 at 13h 23m 12s.xml">
-      <configuration name="DiaryTreeElementDirectoriesEditorTest._1_renameElement_CheckingDirectoryAndNoteNameOfChangedElement" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DiaryTreeElementDirectoriesEditorTest__2_createElementDirectories_CheckIfDirectoriesHaveNewNamesAndIfPathsAreCorrect - 2019.12.21 at 13h 27m 03s.xml">
       <configuration name="DiaryTreeElementDirectoriesEditorTest._2_createElementDirectories_CheckIfDirectoriesHaveNewNamesAndIfPathsAreCorrect" configurationId="JUnit" />
     </history-entry>
@@ -513,6 +491,12 @@
     <history-entry file="All_in_Organ_Organ_test_(3) - 2019.12.22 at 16h 19m 24s.xml">
       <configuration name="All in Organ.Organ.test (3)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_Organ_Organ_test_(1) - 2020.01.29 at 21h 54m 25s.xml">
+      <configuration name="All in Organ.Organ.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Organ_Organ_test_(1) - 2020.01.29 at 21h 58m 27s.xml">
+      <configuration name="All in Organ.Organ.test (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,7 +510,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27452025" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28091684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -535,7 +519,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3225108" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.3225108" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -622,57 +606,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementDirectoriesEditor/ChildrenElementsDirectoriesRefresher/DiaryTreElementsDirectoriesStructureRefresherTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/IDiaryTreeElementModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/IDiaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/ITextComponentContentSetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="71" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/3.1.0/30e8ff3451ac57bc46f5954f667378bc3f85b8f5/mockito-core-3.1.0-sources.jar!/org/mockito/internal/invocation/InterceptedInvocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="151" selection-start-line="151" selection-end-line="151" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/3.1.0/30e8ff3451ac57bc46f5954f667378bc3f85b8f5/mockito-core-3.1.0-sources.jar!/org/mockito/internal/stubbing/answers/CallsRealMethods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -869,17 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/App/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="method#treeButtonPanel#0;class#Config#0" />
-            <element signature="method#diaryDirectory#0;class#Config#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/App/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -964,16 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/DailyNoteEditorPane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="e#3014#3015#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeModel/DiaryTreeModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -984,10 +896,78 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeElement/DiaryTreeElementModel/DiaryTreeElementModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
-          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="method#deleteElement#0;class#DiaryTreeElementModel#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#treeButtonPanel#0;class#Config#0" />
+            <element signature="method#diaryDirectory#0;class#Config#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/OrganMainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GUI/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DiaryTreePanelComponents/DiaryTree/DiaryTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="105" selection-start-line="2" selection-start-column="105" selection-end-line="2" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/DailyNoteEditorPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
+          <folding>
+            <element signature="e#2950#2951#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/KeyBindingSetter/DailyNoteKeyBindingSetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/TextComponentActions/TextComponentActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DiaryTreePanel/DailyNoteEditorPane/EditorPaneContentSetter/EditorPaneContentSetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/Frames/OrganMainFrame/DiaryPanel/DiaryPanelComponents/DailyNoteEditorPane/DailyNoteEditorPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
