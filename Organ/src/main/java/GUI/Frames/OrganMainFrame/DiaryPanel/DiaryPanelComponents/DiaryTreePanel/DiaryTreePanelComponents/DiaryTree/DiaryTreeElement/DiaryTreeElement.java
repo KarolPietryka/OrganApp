@@ -11,6 +11,14 @@ import org.apache.commons.io.FilenameUtils;
 import javax.swing.tree.DefaultMutableTreeNode;
 import java.io.*;
 
+/**
+ * DiaryTreeElement is composed by:
+ * file format which represents format of noteFile (.txt as default)
+ * diaryTreeElementModel which contains Directory and NoteFile
+ * editor of Directory and NoteFile
+ *
+ * DiaryTreeElement should be consider as directory witch data as name and noteFile inside this directory
+ */
 public class DiaryTreeElement extends DefaultMutableTreeNode implements IDiaryTreeElement {
 
     private String fileFormat;

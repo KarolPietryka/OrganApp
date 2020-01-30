@@ -24,13 +24,13 @@ public class DiaryTreeLoader implements ITreeLoader{
         this.filesFormat = filesFormat;
     }
 
-    public void loadTree(IDiaryTree diaryTree) throws NoSuchFieldException
+    public void loadTree(IDiaryTree diaryTree)
     {
         this.diaryTree = diaryTree;
         int numberOfElementsInListing = diaryTreeRootElement.getNumberOfElementsInListing();
-        if (numberOfElementsInListing == 0) {
+        // Insert first element if no elements in diary
+        if (numberOfElementsInListing == 0)
             insertCurrentDayDiaryPageIntoTree();
-        }
         else {
             loadTreeNodesFromElement(diaryTreeRootElement);
             //Check if today's diary already exist in directory.

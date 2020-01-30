@@ -4,24 +4,31 @@ import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.
 import GUI.Frames.OrganMainFrame.DiaryPanel.DiaryPanelComponents.DiaryTreePanel.DiaryTreePanelComponents.DiaryTree.DiaryTreeElement.DiaryTreeElementModel.NoteFile.NoteFile;
 import org.apache.commons.io.FileUtils;
 
+import javax.xml.crypto.Data;
 import java.io.*;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class DiaryTreeElementModel implements IDiaryTreeElementModel{
 
     private DirectoryFile elementDirectory;
     private NoteFile noteFile;
+    private Date noteDate;
 
     public DiaryTreeElementModel(File elementDirectoryFile,
                                  String filesFormat)
     {
         this.elementDirectory = new DirectoryFile(elementDirectoryFile.getAbsolutePath(), true);
         this.noteFile = new NoteFile(elementDirectoryFile, elementDirectoryFile.getName(), filesFormat);
+        setNoteDateFromString(elementDirectoryFile.getName());
     }
 
     public DirectoryFile getDirectoryFile(){return elementDirectory;}
     public NoteFile getNoteFile(){return noteFile;}
+    public Date getNoteDate(){return noteDate;}
     public void setDirectoryFile(File elementDirectory){
         this.elementDirectory.setDirectoryFile(elementDirectory);
+        setNoteDateFromString(elementDirectory.getName());
     }
     public void setNoteFile(File noteFile){
         this.noteFile.setNoteFile(noteFile);
@@ -60,5 +67,24 @@ public class DiaryTreeElementModel implements IDiaryTreeElementModel{
             } catch (Exception ex) {/*ignore*/}
         }
     }
+
+    private void setNoteDate(Date date){
+        this.noteDate = date;
+    }
+
+    /**
+     * Always refreshed with directory
+     * @param date data in format yyyy-mm-dd
+     */
+    public void setNoteDateFromString(String date){
+        try {
+            setNoteDate(new SimpleDateFormat("yyyy-MM-dd").parse(date));
+        }
+        catch(java.text.ParseException exception) {
+            setNoteDate(new Date(2000,01,01));
+        }
+    }
+
+
 
 }
